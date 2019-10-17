@@ -4,8 +4,6 @@ const intuoi = () => {
     return Math.floor(Math.random()* 100);
 }
 
-
-
 const sinhVien = (props) => {
     return(
         <div>
